@@ -1,0 +1,32 @@
+*{
+    background-color:black ;
+    padding: 0%;
+    border: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navigation{
+    font-size: 25px;
+    text-align: end;
+    text-decoration: none;
+    padding: 0%;
+    border: 0%;
+
+}
+
+a{
+    margin-left: 30px;
+    margin-right: 30px;
+    color: brown;
+}
+
+.about {
+    font-size: 30px;
+    color: rgb(0, 81, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: start;
+    text-overflow: clip;
+    border: 20px;
+    padding: 0%;
+
+}
